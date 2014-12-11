@@ -1,1 +1,6 @@
 Good Morning
+
+This lines are committed from dev branch
+This lines will be modified in other branches
+One of these lines might be overriden or deleted
+This is the last line 
