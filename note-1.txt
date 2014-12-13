@@ -8,5 +8,5 @@ This is the last line from the commit of branch of d2
 ******* by c2 %%%%%by b2
 This lines are committed from dev branch
 This lines will be modified in other branches
-One of these lines might be overriden or deleted
+Override but never delete
 This is the last line 
